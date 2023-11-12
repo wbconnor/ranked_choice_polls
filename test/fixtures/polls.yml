@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  user: one
+  requires_logged_in: false
+  max_selected_options: 1
+  password: MyString
+  close_date: 2023-11-12
+
+two:
+  title: MyString
+  description: MyText
+  user: two
+  requires_logged_in: false
+  max_selected_options: 1
+  password: MyString
+  close_date: 2023-11-12
